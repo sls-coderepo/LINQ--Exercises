@@ -1,0 +1,11 @@
+c:\Users\Shirish\Projects\workspace\LINQedList\bin\Debug\netcoreapp3.0\LINQedList.exe
+C:\Users\Shirish\Projects\workspace\LINQedList\bin\Debug\netcoreapp3.0\LINQedList.deps.json
+C:\Users\Shirish\Projects\workspace\LINQedList\bin\Debug\netcoreapp3.0\LINQedList.runtimeconfig.json
+C:\Users\Shirish\Projects\workspace\LINQedList\bin\Debug\netcoreapp3.0\LINQedList.runtimeconfig.dev.json
+c:\Users\Shirish\Projects\workspace\LINQedList\bin\Debug\netcoreapp3.0\LINQedList.dll
+c:\Users\Shirish\Projects\workspace\LINQedList\bin\Debug\netcoreapp3.0\LINQedList.pdb
+c:\Users\Shirish\Projects\workspace\LINQedList\obj\Debug\netcoreapp3.0\LINQedList.csprojAssemblyReference.cache
+c:\Users\Shirish\Projects\workspace\LINQedList\obj\Debug\netcoreapp3.0\LINQedList.AssemblyInfoInputs.cache
+c:\Users\Shirish\Projects\workspace\LINQedList\obj\Debug\netcoreapp3.0\LINQedList.AssemblyInfo.cs
+c:\Users\Shirish\Projects\workspace\LINQedList\obj\Debug\netcoreapp3.0\LINQedList.dll
+c:\Users\Shirish\Projects\workspace\LINQedList\obj\Debug\netcoreapp3.0\LINQedList.pdb
