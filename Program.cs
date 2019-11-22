@@ -224,7 +224,7 @@ namespace LINQedList
 
             foreach (var group in groups)
             {
-                Console.WriteLine($"{group.Key}");
+                Console.WriteLine($"{group.Key} has {group.Count()} customers");
                 foreach (Customer customer in group)
                 {
                     Console.WriteLine($"****{customer.Name}");
